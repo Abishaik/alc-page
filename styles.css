@@ -152,6 +152,12 @@ content_data div img{
     max-height: 100%;
 }
 
+#daylist li{
+    font-size:2vw;
+    margin-top: 1vw;
+}
+
+
 
 
 
